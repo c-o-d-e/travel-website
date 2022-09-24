@@ -2,11 +2,7 @@ import React from "react";
 import "../../App.css";
 
 function SignUp() {
-    return (
-        <div>
-            <h1>Something</h1>
-        </div>
-    );
+    return <h1 className="sign-up">SIGN UP</h1>;
 }
 
 export default SignUp;
