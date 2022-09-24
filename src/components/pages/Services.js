@@ -2,11 +2,7 @@ import React from "react";
 import "../../App.css";
 
 function Services() {
-    return (
-        <div>
-            <h1>Something</h1>
-        </div>
-    );
+    return <h1 className="services">SERVICES</h1>;
 }
 
 export default Services;
