@@ -13,7 +13,11 @@ function App() {
             <Router>
                 <Navbar />
                 <Routes>
-                    <Route path="/travel-website" exact element={<Home />} />
+                    <Route
+                        path="https://c-o-d-e.github.io/travel-website/"
+                        exact
+                        element={<Home />}
+                    />
                     <Route path="/services" exact element={<Services />} />
                     <Route path="/products" exact element={<Products />} />
                     <Route path="/sign-up" exact element={<SignUp />} />
