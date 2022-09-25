@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import Footer from "";
+import Footer from "../components/Footer";
 
 function Products() {
     return (
