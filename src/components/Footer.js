@@ -32,40 +32,40 @@ function Footer() {
                     <div class="footer-link-items">
                         <h2>About Us</h2>
                         <Link to="/sign-up">How it works</Link>
-                        <Link to="/travel-website">Testimonials</Link>
-                        <Link to="/travel-website">Careers</Link>
-                        <Link to="/travel-website">Investors</Link>
-                        <Link to="/travel-website">Terms of Service</Link>
+                        <Link to="/">Testimonials</Link>
+                        <Link to="/">Careers</Link>
+                        <Link to="/">Investors</Link>
+                        <Link to="/">Terms of Service</Link>
                     </div>
                     <div class="footer-link-items">
                         <h2>Contact Us</h2>
-                        <Link to="/travel-website">Contact</Link>
-                        <Link to="/travel-website">Support</Link>
-                        <Link to="/travel-website">Destinations</Link>
-                        <Link to="/travel-website">Sponsorships</Link>
+                        <Link to="/">Contact</Link>
+                        <Link to="/">Support</Link>
+                        <Link to="/">Destinations</Link>
+                        <Link to="/">Sponsorships</Link>
                     </div>
                 </div>
                 <div className="footer-link-wrapper">
                     <div class="footer-link-items">
                         <h2>Videos</h2>
-                        <Link to="/travel-website">Submit Video</Link>
-                        <Link to="/travel-website">Ambassadors</Link>
-                        <Link to="/travel-website">Agency</Link>
-                        <Link to="/travel-website">Influencer</Link>
+                        <Link to="/">Submit Video</Link>
+                        <Link to="/">Ambassadors</Link>
+                        <Link to="/">Agency</Link>
+                        <Link to="/">Influencer</Link>
                     </div>
                     <div class="footer-link-items">
                         <h2>Social Media</h2>
-                        <Link to="/travel-website">Instagram</Link>
-                        <Link to="/travel-website">Facebook</Link>
-                        <Link to="/travel-website">Youtube</Link>
-                        <Link to="/travel-website">Twitter</Link>
+                        <Link to="/">Instagram</Link>
+                        <Link to="/">Facebook</Link>
+                        <Link to="/">Youtube</Link>
+                        <Link to="/">Twitter</Link>
                     </div>
                 </div>
             </div>
             <section className="social-media">
                 <div className="social-media-wrap">
                     <div className="footer-logo">
-                        <Link to="/travel-website" className="social-logo">
+                        <Link to="/" className="social-logo">
                             TRAVELIO
                             <i className="fa-solid fa-plane-departure"></i>
                         </Link>
@@ -73,7 +73,7 @@ function Footer() {
                     <small className="website-rights">TRAVELIO © 2022</small>
                     <div className="social-icons">
                         <Link
-                            to="/travel-website"
+                            to="/"
                             target="_blank"
                             aria-label="Facebook"
                             className="social-icon-link facebook"
@@ -81,7 +81,7 @@ function Footer() {
                             <i className="fab fa-facebook-f"></i>
                         </Link>
                         <Link
-                            to="/travel-website"
+                            to="/"
                             target="_blank"
                             aria-label="Instagram"
                             className="social-icon-link instagram"
@@ -90,7 +90,7 @@ function Footer() {
                         </Link>
                         <Link
                             class="social-icon-link youtube"
-                            to="/travel-website"
+                            to="/"
                             target="_blank"
                             aria-label="Youtube"
                         >
@@ -98,7 +98,7 @@ function Footer() {
                         </Link>
                         <Link
                             class="social-icon-link twitter"
-                            to="/travel-website"
+                            to="/"
                             target="_blank"
                             aria-label="Twitter"
                         >
@@ -106,7 +106,7 @@ function Footer() {
                         </Link>
                         <Link
                             class="social-icon-link linkedin"
-                            to="/travel-website"
+                            to="/"
                             target="_blank"
                             aria-label="LinkedIn"
                         >
